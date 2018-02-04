@@ -1,5 +1,4 @@
 import sys,math,string
-#from string import Template
 
 
 #calculate lowest number of entries per entered slots to avoid collision probability entered 
