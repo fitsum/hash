@@ -1,3 +1,3 @@
-#Factorial
+# Factorial
 
 - learning python and hashing
