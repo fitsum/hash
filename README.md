@@ -1,3 +1,5 @@
-# Factorial
+# Hash
 
-- learning python and hashing
+- learning python
+- learning hashing and blockchain
+
